@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: dataset_summary
+Version: 0.1
+Summary: A Python package to generate summaries of dataset columns
+Home-page: https://github.com/suchow07/dataset_summary
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: pandas
